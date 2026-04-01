@@ -121,23 +121,26 @@ class SankalpGaonkar:
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sankalpgaonkar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=sankalpgaonkar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&v=1" height="170" alt="GitHub Stats" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankalpgaonkar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankalpgaonkar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=1" height="170" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=sankalpgaonkar&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=sankalpgaonkar&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&v=1" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sankalpgaonkar&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sankalpgaonkar&theme=tokyo-night&hide_border=true&area=true&v=1" alt="Contribution Graph" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=sankalpgaonkar&theme=tokyonight&no-frame=true&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=sankalpgaonkar&theme=tokyonight&no-frame=true&column=6&margin-w=10&margin-h=10&v=1" alt="GitHub Trophies" />
+
 
 </div>
 
@@ -208,6 +211,5 @@ class SankalpGaonkar:
 
 ⭐ **If you like what you see, consider starring my repos and following me!** ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling&v=2" alt="Footer Wave" />
 </div>
