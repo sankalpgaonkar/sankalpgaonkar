@@ -1,9 +1,16 @@
 <div align="center">
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sankalp%20Gaonkar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20and%20Data%20Science%20%7C%20Full-Stack%20Dev%20%7C%20IoT%20Builder&descAlignY=55&descSize=16" alt="Profile Header" />
 
-![Profile Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sankalp%20Gaonkar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20%7C%20Full-Stack%20Dev%20%7C%20IoT%20Builder&descAlignY=55&descSize=16&v=2)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+AI+that+makes+a+difference+%F0%9F%9A%80;ML+%7C+IoT+%7C+Full-Stack+Development+%F0%9F%92%BB;ENFJ-A+%E2%80%94+Protagonist+%26+Lifelong+Learner+%F0%9F%8C%9F;Open+to+Collabs+%26+Open+Source!+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
+<img src="https://komarev.com/ghpvc/?username=sankalpgaonkar&label=Profile%20Views&color=6C63FF&style=flat-square" alt="Profile Views" />
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/sankalpgaonkar?label=Followers&style=flat-square&color=6C63FF)](https://github.com/sankalpgaonkar)
+&nbsp;
+[![GitHub stars](https://img.shields.io/github/stars/sankalpgaonkar?label=Stars&style=flat-square&color=6C63FF)](https://github.com/sankalpgaonkar)
+
+</div>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+AI+that+makes+a+difference+%F0%9F%9A%80;ML+%7C+IoT+%7C+Full-Stack+Development+%F0%9F%92%BB;ENFJ-A+%E2%80%94+Protagonist+%26+Lifelong+Learner+%F0%9F%8C%9F;Open+to+Collabs+%26+Open+Source!+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=sankalpgaonkar&label=Profile%20Views&color=6C63FF&style=flat-square" alt="Profile Views" />
