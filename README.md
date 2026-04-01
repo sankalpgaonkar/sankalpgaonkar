@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sankalp%20Gaonkar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26amp;%20Data%20Science%20%7C%20Full-Stack%20Dev%20%7C%20IoT%20Builder&descAlignY=55&descSize=16&v=1" alt="Profile Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sankalp%20Gaonkar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26amp;%20Data%20Science%20%7C%20Full-Stack%20Dev%20%7C%20IoT%20Builder&descAlignY=55&descSize=16" alt="Profile Header" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+AI+that+makes+a+difference+%F0%9F%9A%80;ML+%7C+IoT+%7C+Full-Stack+Development+%F0%9F%92%BB;ENFJ-A+%E2%80%94+Protagonist+%26+Lifelong+Learner+%F0%9F%8C%9F;Open+to+Collabs+%26+Open+Source!+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
