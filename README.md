@@ -121,8 +121,6 @@ class SankalpGaonkar:
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=sankalpgaonkar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&v=1" height="170" alt="GitHub Stats" />
