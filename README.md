@@ -1,18 +1,198 @@
-# 💫 About Me:
-👋 Hi there, I'm Sankalp Gaonkar!<br>I am an Artificial Intelligence and Data Science enthusiast currently pursuing my B.E. at NMAMIT, Nitte University (Class of 2028). I’m a lifelong learner, a problem solver, and an ENFJ-A (Protagonist) who thrives on collaboration and building technology that makes a difference.<br><br>🚀 What I’m Up To<br>🎓 Focusing on AI, Machine Learning, and Data Structures.<br><br>💻 Strengthening my Full-Stack skills through the NxtWave CCBP 4.0 program.<br><br>🛠️ Building IoT solutions and predictive models to solve real-world problems.<br><br>🛠️ Tech Stack & Skills<br>Languages: Python, Java, C, HTML, CSS<br><br>Specializations: Machine Learning, Data Structures & Algorithms (DSA), Cloud Computing (Azure), IoT<br><br>Soft Skills: Public Speaking, Leadership, and Event Coordination (Salesforce Workshop Coordinator)<br><br>📂 Featured Projects<br>Poultry Egg Production Prediction: Using Machine Learning to analyze environmental factors and predict production yields.<br><br>Smart Blind Man’s Stick: An IoT-based project designed to enhance mobility and safety for the visually impaired.<br><br>🌟 Beyond the Code<br>When I’m not debugging or training models, you’ll likely find me:<br><br>🏆 Leading on the field—I’m a former Sports Team Captain and state-level qualifier.<br><br>🎭 Expressing my creative side through singing, dancing, and acting.<br><br>🗣️ Engaging in public speaking or exploring Indian mythology and culture.<br><br>💬 Let's Connect!<br>I’m always open to collaborating on open-source projects or discussing the latest in AI and Web Dev.<br><br>Languages I Speak: English, Kannada, Hindi, Marathi, and Konkani.<br><br>Goal: Building a future where data and empathy go hand-in-hand.
+<div align="center">
 
+# 👋 Hi, I'm Sankalp Gaonkar
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Sankalp Gaonkar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sankalp_gaonkar_23) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sankalpgaonkar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sankalpgaonkar23@gmail.com) 
+### 🚀 AI & Data Science Enthusiast | Full-Stack Developer | IoT Builder
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![CloudBees](https://img.shields.io/badge/CloudBees-1997B5&?logo=cloudbees&logoColor=white&style=for-the-badge) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sankalpgaonkar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sankalpgaonkar&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sankalpgaonkar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+AI+that+makes+a+difference;ML+%7C+IoT+%7C+Full-Stack+Development;ENFJ-A+%E2%80%94+Protagonist+%26+Lifelong+Learner)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=sankalpgaonkar&label=Profile%20Views&color=6C63FF&style=flat-square" alt="Profile Views" />
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/sankalpgaonkar?label=Followers&style=flat-square&color=6C63FF)](https://github.com/sankalpgaonkar)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sankalpgaonkar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 About Me
+
+```python
+class SankalpGaonkar:
+    def __init__(self):
+        self.name        = "Sankalp Gaonkar"
+        self.university  = "NMAMIT, Nitte University"
+        self.degree      = "B.E. in AI & Data Science (Class of 2028)"
+        self.personality = "ENFJ-A — The Protagonist"
+        self.languages   = ["English", "Kannada", "Hindi", "Marathi", "Konkani"]
+        self.goal        = "Building a future where data and empathy go hand-in-hand 🌍"
+
+    def current_focus(self):
+        return [
+            "🤖 AI, Machine Learning & Data Structures",
+            "💻 Full-Stack Development via NxtWave CCBP 4.0",
+            "🔩 IoT solutions & Predictive Models",
+        ]
+```
+
+- 🎓 Pursuing **B.E. in Artificial Intelligence & Data Science** at NMAMIT, Nitte University *(Class of 2028)*
+- 🧠 Specializing in **ML, DSA, Cloud Computing (Azure)** and **IoT**
+- 🤝 Former **Salesforce Workshop Coordinator** — passionate about leadership & collaboration
+- 🏆 **State-level Sports qualifier** and former Team Captain
+- 🎨 Creative soul — into singing, dancing, acting & Indian mythology
+- 🌐 Always open to collaborating on **open-source projects** and the latest in **AI & Web Dev**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💬 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🌐 Frontend & Frameworks
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+### 🔧 Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### ☁️ Cloud & DevOps
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![CloudBees](https://img.shields.io/badge/CloudBees-1997B5?style=for-the-badge&logo=cloudbees&logoColor=white)
+
+### 🤖 AI / ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### 🔩 Hardware & Other Tools
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| 🐔 Poultry Egg Production Prediction | 🦯 AI Smart Blind Man's Stick |
+|:---|:---|
+| ML model that analyzes environmental factors (temperature, humidity, light) to predict poultry egg yields with high accuracy. | IoT-based assistive device using sensors and AI to enhance mobility and safety for visually impaired individuals. |
+| `Python` `Scikit-learn` `Pandas` `Matplotlib` | `Arduino` `IoT` `Sensors` `Embedded C` |
+| [📂 View Repo](https://github.com/sankalpgaonkar) | [📂 View Repo](https://github.com/sankalpgaonkar/AI-Smart-Stick) |
+
+| 🐤 Flappy Bird Clone | 🔜 More Coming Soon... |
+|:---|:---|
+| A fun recreation of the classic Flappy Bird game built from scratch. | Currently working on exciting AI & Full-Stack projects. Stay tuned! |
+| `JavaScript` `HTML5` `CSS3` | `AI` `Web Dev` `IoT` |
+| [📂 View Repo](https://github.com/sankalpgaonkar/Flappy-bird) | ⭐ Star this profile to follow along! |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sankalpgaonkar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankalpgaonkar&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sankalpgaonkar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=sankalpgaonkar&theme=tokyonight&no-frame=true&column=6&margin-w=10" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## 🎓 Experience & Achievements
+
+- 🖥️ **NxtWave CCBP 4.0** — Full-Stack Development Program *(Ongoing)*
+- ☁️ **Cloud Computing (Azure)** — Specialization in cloud infrastructure & deployment
+- 🏢 **Salesforce Workshop Coordinator** — Organized & led technical workshops on Salesforce CRM
+- 🏆 **State-Level Sports Qualifier** — Former Sports Team Captain, demonstrating leadership under pressure
+- 🎤 **Public Speaker** — Experienced in anchoring, event coordination & audience engagement
+
+---
+
+## 💡 Specializations
+
+```
+🤖 Machine Learning & Deep Learning     ██████████████░░░  85%
+📊 Data Structures & Algorithms         █████████████░░░░  80%
+☁️  Cloud Computing (Azure)             ████████████░░░░░  75%
+🔩 IoT & Embedded Systems              █████████████░░░░  80%
+🌐 Full-Stack Web Development           ████████████░░░░░  75%
+```
+
+---
+
+## 🌍 Languages I Speak
+
+🇬🇧 English &nbsp;|&nbsp; 🇮🇳 Kannada &nbsp;|&nbsp; 🇮🇳 Hindi &nbsp;|&nbsp; 🇮🇳 Marathi &nbsp;|&nbsp; 🇮🇳 Konkani
+
+---
+
+## 🎯 Beyond the Code
+
+> *"When I'm not debugging or training models, you'll find me..."*
+
+- 🏆 Leading on the field — former **Sports Team Captain** & **state-level qualifier**
+- 🎵 Expressing myself through **singing, dancing & acting**
+- 🗣️ Engaged in **public speaking** and exploring **Indian mythology & culture**
+- 🌱 Constantly **learning, building, and collaborating** on meaningful projects
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+I'm always open to collaborating on open-source projects or discussing the latest in **AI and Web Dev**. Let's build something amazing together!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sankalpgaonkar)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sankalpgaonkar)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Sankalp%20Gaonkar)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sankalpgaonkar@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sankalpgaonkar)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 *"Building a future where data and empathy go hand-in-hand."*
+
+⭐ **If you like what you see, consider starring my repos and following me!** ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" />
+
+</div>
